@@ -22,8 +22,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
-
+```ruby
+TimeTaken.time_taken {puts 'show the time taken to execute this block' }```
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake false` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
